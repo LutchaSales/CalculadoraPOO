@@ -11,6 +11,7 @@ public class Program
         // MÉTODO STATIC//
 
         Calculadora.Iniciar();
+        string luciano = "luciano";
     }
 
 
